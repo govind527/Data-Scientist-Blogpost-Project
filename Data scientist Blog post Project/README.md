@@ -15,7 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interested in using Stack Overflow data from 2017 to better understand:
 
 1. Which Countries People embrace work from Home Most?
-2.Is the developer’s salary related to their activity level on Stack Overflow?
+2. Is the developer’s salary related to their activity level on Stack Overflow?
 3. Is the status of the user account related to user behavior?
 
 
