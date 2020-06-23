@@ -28,7 +28,7 @@ The data is made up of two files:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the blog post available [here](https://medium.com/new-story).
+The main findings of the code can be found at the blog post available [here](https://medium.com/@govindkumarnavik97/the-stack-overflow-2017-survey-54a9745504fc).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
